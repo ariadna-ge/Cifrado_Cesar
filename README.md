@@ -23,6 +23,6 @@ El cifrado César es una técnica de criptografía simétrica en la que cada let
 El proyecto fue realizado para la materia de Habilidades Directivas en la Facultad de Estudios Superiores Aragón durante el semestre 2025-II.
 
 💻 Cuevas Tello Eduardo **([cuevasedu04](https://github.com/cuevasedu04))**  
-💻 Ariadna Denisse García Estrada **([ariadna-ge](https://github.com/ariadna-ge))**  
+💻 García EstradaAriadna Denisse **([ariadna-ge](https://github.com/ariadna-ge))**  
 💻 Pérez Abad Alan Efrain  
-💻 Gustavo Yael Ramos Badillo **([Yae1Ram0s](https://github.com/Yae1Ram0s))**  
+💻 Ramos Badillo Gustavo Yael **([Yae1Ram0s](https://github.com/Yae1Ram0s))**  
